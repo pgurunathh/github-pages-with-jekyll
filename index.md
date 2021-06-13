@@ -1,5 +1,5 @@
 ---
-title: "All About Me"
+title: All About Me
 ---
 
 I'm glad you are here. I plan to talk about myself.
