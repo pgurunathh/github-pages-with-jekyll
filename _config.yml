@@ -5,5 +5,5 @@ email: your-email@domain.com
 twitter_username: prithyu
 github_username:  pgurunathh
 
-show_excerpts: false # set to false to remove excerpts on the homepage
+show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
